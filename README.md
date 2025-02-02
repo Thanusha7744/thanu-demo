@@ -3,4 +3,4 @@ This is my first git repository.
 <br>
 I love Coding.
 <br>
-Author - Thanu
+Author - Thanusha
